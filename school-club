@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>school-club</title>
+  </head>
+<!--   body section -->
+  <body>
+    <!-- ================= HEADER SECTION ================= -->
+    <header>
+      <h1> School-club  </h1>
+      <p><em> School clubs exist to enrich students' educational experience beyond the classroom. Here’s why they matter!</em></p>
+      <p>
+
+       <strong> Skill Development</strong>: Clubs help students build leadership, teamwork, communication, and time management skills. <br>
+
+<strong>Exploration of Interests</strong>: Whether it's robotics, drama, debate, or gardening, clubs let students dive into passions they might not explore in class. <br>
+
+<strong>Social Connections</strong>: They foster friendships and a sense of belonging by connecting students with similar interests. <br>
+
+<strong>Confidence Boost</strong>: Taking initiative, performing, or competing in club activities can build self-esteem . <br>
+      </p>
+<img src="data:image/jpeg;base64,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" alt="school of software engineering club">
+     
+    </header>
+<hr>
+    <!-- ================= NAVIGATION SECTION ================= -->
+    <nav>
+      <ul>
+        <li><a href="#members">Members</a></li>
+        <li><a href="#events">Events</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+<hr>
+    <!-- ================= MAIN CONTENT ================= -->
+    <main>
+      <!-- ===== MEMBERS SECTION ===== -->
+      <section id="members">
+        <h2>Our Members</h2>
+        <p>Meet the passionate minds behind our club:</p>
+        <ul>
+          <li><strong>YOHANNIS   DARAJJE</strong> – President</li>
+          <li><strong> BONTU     CHALA</strong> – Vice President</li>
+          <li><strong> MOHAMMED  ALI</strong> – News Coordinator</li>
+          <li><strong>TESFANESH  ALEMAYEHU</strong> – Event Manager</li>
+          <li><strong> TARESA    DHUGUMA</strong> -Contact center</li>
+        </ul>
+      </section>
+<hr>
+      <!-- ===== EVENTS SECTION ===== -->
+      <section id="events">
+        <h2>Upcoming Events</h2>
+        <p>Never forget to check your calander! Here’s what’s coming next:</p>
+        <ol>
+          <li>1st day club meeting – <mark>November 15, 2025 at 2:00</mark></li>
+          <li> Electronics device Exhibition  –<mark> December 2, 2025 ar 2:00</mark></li>
+          <li>Field Trip to Arbamich  – <mark>January 15, 2026 at 8:00  morning</mark></li>
+        </ol>
+      </section>
+      <hr>
+      <!-- ===== ARTICLE SECTION (LATEST NEWS) ===== -->
+      <article id="news">
+        <h2>Latest News</h2>
+        <p>
+          <strong>Breaking!</strong> Our team just won 1st place in the
+          <em>Inter-school club challenge</em> for our eco-friendly.
+        </p>
+        <p><small>Posted on October 18, 2025</small></p>
+      </article>
+    </main>
+    <hr>
+<!-- Definition list section -->
+      <dl>
+        <dt><strong>Skill Development</strong></dt>
+        <dd>
+          Clubs help students build leadership, teamwork, communication, and time management skills.
+        </dd>
+
+        <dt><strong>Exploration of Interests</strong></dt>
+        <dd>
+          Whether it's robotics, drama, debate, or gardening, clubs let students dive into passions they might not explore in class.
+        </dd>
+
+        <dt><strong>Social Connections</strong></dt>
+        <dd>
+          They foster friendships and a sense of belonging by connecting students with similar interests.
+        </dd>
+
+        <dt><strong>Confidence Boost</strong></dt>
+        <dd>
+          Taking initiative, performing, or competing in club activities can build self-esteem.
+        </dd>
+      </dl>
+<hr>
+    <!-- ================= FOOTER SECTION ================= -->
+    <footer>
+        
+      <!-- ===== ASIDE SECTION ===== -->
+      <aside id="contact">
+        <h2>Contact or Fun Facts</h2>
+        <p>
+          📧 <strong>Email:</strong> <a href="ydarajjegmail.com">ydarajjegmail.com</a> <br />
+          ☎️ <strong>Phone:</strong> <a href="+251962943144">+251962943144</a>
+        </p>
+        <p><em><b>Fun Fact: <br></b></em>🌕  Did you know that <mark>human being never died</mark>?  🎥</p>
+         <p> <em><🌕 The moon has <mark>moonquakes!</mark> </em></pem>
+        <hr>
+            <!-- Optional glossary using definition list -->
+        <h3>Glossary</h3>
+      </aside>
+      <p><small>Follow us on social media  :<strong>Telegram</strong> <a href="@Jaatulee">Jaatulee</a> <strong>Fb</strong> <a href="John dar">John dar</a></small></p>
+      <p>&copy; 2025 School-Club | All rights reserved.</p>
+    </footer>
+  </body>
+</html>
+<hr>
+<br>
